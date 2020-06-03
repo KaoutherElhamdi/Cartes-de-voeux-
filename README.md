@@ -7,3 +7,4 @@ Malheureusement, on ne save pas quelle quantité commander pour chaque jour.
 Mais on a accès aux données de naissance aux États-Unis.
 
 -------------------------------------------------------------------
+(Merci pour votre visite)
